@@ -1,0 +1,127 @@
+{
+  "main": {
+    "name":"Eric King",
+    "occupation":"Web Developer/Audio Engineer",
+    "description":"Im a full stack web developer with a background in audio production and engineering.",
+    "image":"profilepic.jpg",
+    "bio":"Im a recent graduate of the Uconn Coding Bootcamp which I completed in May 2020. My skillset consists of HTML, CSS, Javascript, jQuery, React, Redux, NodeJS, MySQL, and MongoDB. I am also a graduate of Baystate College with an Associate of Science in Entertainment Management.",
+    "contactmessage":"Please contact me.",
+    "email": "zvluwork@gmail.com",
+    "phone": "860-936-7330",
+    "address":{
+      "street":"128 Hungerford st",
+      "city":"Hartford",
+      "state":"CT",
+      "zip": "06106"
+    },
+    "website": "https://github.com/zvlu",
+    "resumedownload":"https://drive.google.com/file/d/1I0IJUcEWkabBoxS_OGc14Zb5o-nPCrz5/view?usp=sharing",
+    "social":[
+      {
+        "name":"github",
+        "url":"https://github.com/zvlu",
+        "className":"fa fa-github"
+      },
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/zvlu-music-7b2390197/",
+        "className":"fa fa-linkedin"
+      }
+    
+      
+      
+      
+     
+    ]
+  },
+  "resume":{
+    "skillmessage":"Porficient using HTML, CSS, Javascript, jQuery, React, NodeJS, MySQL, and MongoDB",
+    "education":[
+      {
+        "school":"Uconn Coding Bootcamp",
+        "degree":"Full Stack Course",
+        "graduated":"May 2020",
+        "description":" I learned how to develop apps while applying the accepted and standard basics of social coding—source control, issue tracking, functional feedback, etc. Built front-end websites from scratch, as well as with ready-made frameworks. I Created full-stack, single-page web applications with RESTful routes and AJAX methods, and generated dynamic content and implement user-authentication schemes by incorporating different types of databases—MySQL and MongoDB. I also learned the entire development cycle of complex projects in both independent and collaborative settings. "
+        
+      },
+      {
+        "school":"Baystate College",
+        "degree":"Associate of Science in Entertainment Management",
+        "graduated":"May 2010",
+        "description":"Great school located in downtown Boston, studied entertainement management with a minor in audio engineering. Proficient using the following: Sports Sounds Pro, Pro Tools, Reason, FL Studio, and Logic Pro, Microsoft Word, Microsoft PowerPoint"
+      }
+    ],
+    "work":[
+      {
+        "company":"Hartford Public Library",
+        "title":"Music Coordinator ",
+        "years":"January 2019 - Present",
+        "description":"Host and coordinator for the Baby Grand Jazz events. Coordinated with band members in show setup, video streamed event to Facebook Live, and monitored social media and online sources for industry trends. Technology used were OBS Software."
+      },
+      {
+        "company":"Bamboo Grove LLC.",
+        "title":"Music Producer",
+        "years":"March 2006 - Current",
+        "description":"Worked on several music projects as main producer. Submitted and have been added to the Warner Music Production Catalog. Notable artist I have provieded production for are Leveon Bell, Gyptain, Brandon Serafino, and many more. I have also been contracted to produce events such as The Greenwich Art Gala 2016, Baby Grand Jazz 2019/2020, and many more."
+      }
+    ],
+    "skills":[
+      {
+        "name":"Git",
+        "level":"80%"
+      },
+      {
+        "name":"NodeJS",
+        "level":"70%"
+      },
+      {
+        "name":"ReactJs",
+        "level":"80%"
+      },
+      {
+        "name":"CSS",
+        "level":"90%"
+      },
+      {
+        "name":"HTML5",
+        "level":"80%"
+      },
+      {
+        "name":"MongoDB",
+        "level":"80%"
+      }
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"FinTrack",
+        "category":"FinTRack is a web application that allows users to track the Income and Expenses.",
+        "image":"fintrack.png",
+        "url":"https://serene-scrubland-32480.herokuapp.com/"
+      },
+      {
+        "title":"Lively",
+        "category":"One place to find your favorite artist and new ones at the same time.",
+        "image":"Lively.png",
+        "url":"http://sforzemon.github.io/Lively/"
+      },
+      {
+        "title":"MyGarage",
+        "category":"Car part store",
+        "image":"mygarage.png",
+        "url":"https://lit-scrubland-58683.herokuapp.com/"
+      }
+      
+    ]
+  },
+  "testimonials":{
+    "testimonials":[
+      {
+        "text":"As current music producer I would love to explore the ways I can marry my love for tech and music.",
+        "user":"Eric King"
+      }
+      
+    ]
+  }
+}
