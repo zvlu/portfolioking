@@ -1,6 +1,7 @@
 {
   "name": "portfolioking",
   "version": "0.1.0",
+  "description": "Helps you find the characters you are looking for",
   "private": true,
   "main": "index.js",
   "dependencies": {
