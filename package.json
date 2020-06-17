@@ -2,24 +2,18 @@
   "name": "portfolioking",
   "version": "1.0.0",
   "description": "Mern Portfolio",
-  "main": "server.js",
-  "scripts": {
-    "start": "if-env NODE_ENV=production && npm run start:prod || npm run start:dev",
-    "start:prod": "node server.js",
-    "start:dev": "concurrently \"nodemon --ignore 'client/*'\" \"npm run client\"",
-    "client": "cd client && npm run start",
-    "install": "cd client && npm install",
-    "build": "cd client && npm run build",
-    "heroku-postbuild": "npm run build"
-  },
-  "author": "",
-  "license": "ISC",
-  "devDependencies": {
-    "concurrently": "^4.1.0",
-    "nodemon": "^1.18.7"
-  },
+  "private": true,
   "dependencies": {
-    "express": "^4.17.1",
-    "if-env": "^1.0.4"
+    "jquery": "^3.2.1",
+    "react": "^16.2.0",
+    "react-dom": "^16.2.0",
+    "react-ga": "^2.3.5",
+    "react-scripts": "1.0.17"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
   }
 }
