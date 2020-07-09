@@ -82,7 +82,7 @@ class Contact extends Component {
 					   <p className="address">
 						   {name}<br />
                      {email}<br  />
-						   {street} <br />
+						 
 						   {city}, {state} {zip}<br />
 						   <span>{phone}</span>
 					   </p>

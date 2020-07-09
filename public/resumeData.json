@@ -9,13 +9,12 @@
     "email": "zvluwork@gmail.com",
     "phone": "860-936-7330",
     "address":{
-      "street":"128 Hungerford st",
       "city":"Hartford",
       "state":"CT",
       "zip": "06106"
     },
     "website": "https://github.com/zvlu",
-    "resumedownload":"https://drive.google.com/file/d/1I0IJUcEWkabBoxS_OGc14Zb5o-nPCrz5/view?usp=sharinghttps://docs.google.com/document/d/1DH44msCTk6rdsDkTtmTABgKRjTgl324hAnZFtSMnKcA/edit?usp=sharing",
+    "resumedownload":"https://drive.google.com/file/d/1eiY_9PXV-_UZg6hIVF-Zou5MpA-o3F6l/view?usp=sharing",
     "social":[
       {
         "name":"github",
@@ -35,7 +34,7 @@
     ]
   },
   "resume":{
-    "skillmessage":"Porficient using HTML, CSS, Javascript, jQuery, React, NodeJS, MySQL, and MongoDB",
+    "skillmessage":"Proficent using the following technologies",
     "education":[
       {
         "school":"Uconn Coding Bootcamp",
@@ -68,27 +67,35 @@
     "skills":[
       {
         "name":"Git",
-        "level":"80%"
+        "level":"100%"
+      },
+      {
+        "name":"MySQL",
+        "level":"100%"
+      },
+      {
+        "name":"Javascript",
+        "level":"100%"
       },
       {
         "name":"NodeJS",
-        "level":"70%"
+        "level":"100%"
       },
       {
-        "name":"ReactJs",
-        "level":"80%"
+        "name":"React",
+        "level":"100%"
       },
       {
         "name":"CSS",
-        "level":"90%"
+        "level":"100%"
       },
       {
         "name":"HTML5",
-        "level":"80%"
+        "level":"100%"
       },
       {
         "name":"MongoDB",
-        "level":"80%"
+        "level":"100%"
       }
     ]
   },
@@ -96,20 +103,26 @@
     "projects": [
       {
         "title":"FinTrack",
+        "tech" : "Frontend Framework Bootstrap, Js,Node Express,Mysql ,Sequelize and Js library Chart.js. ,Finnhub and Alpha Vantage api's",
         "category":"FinTRack is a web application that allows users to track the Income and Expenses.",
         "image":"fintrack.png",
+        "github":"https://github.com/zvlu/FinTRack",
         "url":"https://serene-scrubland-32480.herokuapp.com/"
       },
       {
         "title":"Lively",
+        "tech" : "JQUERY , Live.fm API ,TasteDiv API",
         "category":"One place to find your favorite artist and new ones at the same time.",
         "image":"Lively.png",
-        "url":"http://sforzemon.github.io/Lively/"
+        "github":"https://github.com/zvlu/Lively",
+        "url":"https://sforzemon.github.io/Lively/"
       },
       {
         "title":"MyGarage",
         "category":"Car part store",
+        "tech" : "MERN STACK, PASSPORT,React-simple-chat-bot, Market check API, Stripe Secure Payment Gateway",
         "image":"mygarage.png",
+        "github":"https://github.com/smaji08/mygarage-kaera",
         "url":"https://lit-scrubland-58683.herokuapp.com/"
       }
       
